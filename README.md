@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingxuanChen7&hide=C&layout=compact"/>
+<img src="https://github-readme-stats-one-woad-55.vercel.app/api/top-langs/?username=JingxuanChen7&hide=C&layout=compact"/>
 
 <!--
 **JingxuanChen7/JingxuanChen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
